@@ -1,0 +1,18 @@
+{
+  "accommodation": {
+    "populated": null,
+    "entities": []
+  },
+  "sightseeing": {
+    "populated": null,
+    "entities": []
+  },
+  "food": {
+    "populated": null,
+    "entities": []
+  },
+  "transport": {
+    "populated": null,
+    "entities": []
+  }
+}

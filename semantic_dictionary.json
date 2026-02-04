@@ -1,0 +1,43 @@
+{
+  "accommodation": {
+    "keywords": [
+      "accommodation", "stay", "place to stay", "lodging", 
+      "hotel", "hotels", "hostel", "hostels", "apartment", "airbnb", "guest house",
+      "resort", "city center", "downtown", "central area",
+      "near airport", "budget stay", "luxury hotel"
+    ],
+    "confidence_threshold": 1
+  },
+
+ "sightseeing": {
+    "keywords": [
+      "city", "visit", "visiting", "sightseeing", "destinations",
+      "tour", "tourist", "tourism", "attractions",
+      "places to see", "places to visit", "landmarks",
+      "museum", "historic places", "old town", "city tour", "explore"
+    ],
+    "confidence_threshold": 1
+  },
+
+  "food": {
+    "keywords": [
+      "food", "eat", "eating", "restaurant", "restaurants",
+      "dining", "cuisine", "local food", "local cuisine", 
+      "traditional food", "street food", "cafes","café", "cafe", "coffee",
+      "breakfast", "lunch", "dinner"
+    ],
+    "confidence_threshold": 1
+  },
+
+
+  "transport": {
+    "keywords": [
+    "flight", "fly", "plane", "airport", "train", "metro", 
+    "subway", "rail", "bus", "coach", "tram", "taxi", "cab", 
+    "uber", "car rental", "rent a car", "bike", "bicycle",
+    "walk", "on foot"
+    ],
+    "confidence_threshold": 1
+  }
+
+}

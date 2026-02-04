@@ -1,0 +1,103 @@
+[
+  {
+    "name": "Budget Solo Traveller",
+    "preferences": [
+      "cheap hostels",
+      "public transport",
+      "walkability",
+      "street food",
+      "budget planning",
+      "local experiences",
+      "flexibility"
+    ],
+    "age": "young"
+  },
+  {
+    "name": "Luxury Couple Traveller",
+    "preferences": [
+      "luxury hotels",
+      "fine dining",
+      "privacy",
+      "comfort",
+      "romantic experiences",
+      "spa and wellness",
+      "premium transport",
+      "city views"
+    ],
+    "age": "young"
+  },
+  {
+    "name": "Family Man Traveller",
+    "preferences": [
+      "safety",
+      "family-friendly accommodation",
+      "spacious rooms",
+      "mobility",
+      "child-friendly attractions",
+      "easy transportation",
+      "restaurants with kids options",
+      "central location"
+    ],
+    "age": "middle aged"
+  },
+  {
+    "name": "Senior Couple Traveller",
+    "preferences": [
+      "comfortable accommodation",
+      "quiet hotels",
+      "easy accessibility",
+      "central location",
+      "cultural sightseeing",
+      "guided tours",
+      "local cuisine",
+      "reliable public transport",
+      "short walking distances"
+    ],
+    "age": "old"
+  },
+  {
+    "name": "Cultural Solo Traveller",
+    "preferences": [
+      "boutique hotels",
+      "museums and galleries",
+      "historical landmarks",
+      "theatre and concerts",
+      "local traditions",
+      "authentic local food",
+      "food markets",
+      "walkable cities",
+      "public transport"
+    ],
+    "age": "middle aged"
+  },
+  {
+    "name": "Nature and Hiking Traveller",
+    "preferences": [
+      "nature-based accommodation",
+      "eco-lodges",
+      "national parks",
+      "hiking trails",
+      "scenic viewpoints",
+      "outdoor activities",
+      "local food",
+      "car rental",
+      "regional transport"
+    ],
+    "age": "middle aged"
+  },
+    {
+  "name": "Student Group Traveller",
+  "preferences": [
+    "cheap accommodation",
+    "dormitories",
+    "hostels",
+    "public transport",
+    "educational exhibitions",
+    "museums",
+    "group-friendly activities",
+    "budget-friendly food",
+    "flexible schedules"
+  ],
+  "age": "young"
+}
+]
