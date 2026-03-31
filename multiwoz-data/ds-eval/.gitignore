@@ -1,0 +1,12 @@
+# Raw Data
+multiwoz_data/
+
+# Intermediate Data Files
+multiwoz_evaluation.csv
+multiwoz_evaluation.json
+multiwoz_evaluation_grouped.json
+multiwoz_travel_*.csv
+
+# Python Cache
+__pycache__/
+*.pyc
