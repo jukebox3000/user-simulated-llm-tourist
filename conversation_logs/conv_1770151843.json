@@ -1,0 +1,76 @@
+{
+  "persona": "Family Man Traveller",
+  "conversation": [
+    [
+      "Model A",
+      "Error: 'NoneType' object is not callable"
+    ],
+    [
+      "Model B",
+      "Error: 'NoneType' object is not callable"
+    ],
+    [
+      "Model A",
+      "Error: 'NoneType' object is not callable"
+    ],
+    [
+      "Model A",
+      "Error: 'NoneType' object is not callable"
+    ],
+    [
+      "Model B",
+      "Error: 'NoneType' object is not callable"
+    ],
+    [
+      "Model B",
+      "Error: 'NoneType' object is not callable"
+    ],
+    [
+      "Model A",
+      "Error: 'NoneType' object is not callable"
+    ],
+    [
+      "Model A",
+      "Error: 'NoneType' object is not callable"
+    ],
+    [
+      "Model B",
+      "Error: 'NoneType' object is not callable"
+    ],
+    [
+      "Model B",
+      "Error: 'NoneType' object is not callable"
+    ],
+    [
+      "Model A",
+      "Error: 'NoneType' object is not callable"
+    ],
+    [
+      "Model A",
+      "Error: 'NoneType' object is not callable"
+    ],
+    [
+      "Model B",
+      "Error: 'NoneType' object is not callable"
+    ],
+    [
+      "Model B",
+      "Error: 'NoneType' object is not callable"
+    ]
+  ],
+  "ontology": {
+    "food": {
+      "populated": true,
+      "entities": [
+        "NoneType"
+      ]
+    },
+    "accommodation": {
+      "populated": true,
+      "entities": [
+        "NoneType"
+      ]
+    }
+  },
+  "timestamp": 1770151843.2917125
+}
